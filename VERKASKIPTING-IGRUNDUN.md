@@ -4,6 +4,16 @@ Skrifið stutta lýsingu um hvernig þið
 #### rýndu skjölin hjá hvert öðru 
 ####  gerðuð pull, commit og push og pull request
 
+Verkaskipting:
+###Egill
+- Viðskipta­markmið(1.3)
+- Framtíðarsýn (vision statement) (1.5)
+
+###Valur
+- Umfang (scope) (2.2)
+- Forgangur hagsmunaaðila (favored stakeholder) (3.1)
+
+
 ## Ígrundun 
 Í lok verkefnis gerið endurmat á verkefninu  (1/2 - 1 síða)
 #### Hvað gekk vel í verkefninu 
