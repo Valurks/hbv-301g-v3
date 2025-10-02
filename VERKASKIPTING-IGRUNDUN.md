@@ -12,7 +12,7 @@ Verkaskipting:
 
 ### Valur
 - Umfang (scope) (2.2)
-- Forgangur hagsmunaaðila (favored stakeholder) (3.1)
+- Forgangs hagsmunaaðilar (favored stakeholder) (3.1)
 
 
 ## Ígrundun 
