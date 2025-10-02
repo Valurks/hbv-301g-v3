@@ -6,11 +6,11 @@ Skrifið stutta lýsingu um hvernig þið
 
 Verkaskipting:
 
-####Egill
+### Egill
 - Viðskipta­markmið (1.3)
 - Framtíðarsýn (vision statement) (1.5)
 
-####Valur
+### Valur
 - Umfang (scope) (2.2)
 - Forgangur hagsmunaaðila (favored stakeholder) (3.1)
 
