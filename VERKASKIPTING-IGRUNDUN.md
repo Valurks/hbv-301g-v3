@@ -5,6 +5,7 @@ Skrifið stutta lýsingu um hvernig þið
 ####  gerðuð pull, commit og push og pull request
 
 Verkaskipting:
+
 ###Egill
 - Viðskipta­markmið (1.3)
 - Framtíðarsýn (vision statement) (1.5)
