@@ -6,7 +6,7 @@ Skrifið stutta lýsingu um hvernig þið
 
 Verkaskipting:
 ###Egill
-- Viðskipta­markmið(1.3)
+- Viðskipta­markmið (1.3)
 - Framtíðarsýn (vision statement) (1.5)
 
 ###Valur
