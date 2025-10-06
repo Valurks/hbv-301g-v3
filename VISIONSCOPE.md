@@ -37,7 +37,14 @@
 
 
 ### 1.3 Viðskiptamarkmið
-*(Skrifaðu þennan kafla)*
+Aðal viðskipta markmiðið með þessum hugbúnaði er að hjálpa Rúv að stækka hlutverk sitt sem Ríkissjónvarp Íslands, með því að auka aðgengi fyrir landsmenn og bjóða upp á fjölbreytt og viðeigandi efni. Hugbúnaðurinn miðar að auka þáttöku notanda og áhorfs tíma með því að gera notendum kleift að neyta efni í beinni útsendingu og mismunandi efni eftir því sem þeim hentar, hvenær sem er og hvar sem er á vef og snjalltækjum.
+
+Annað mikilvægt markmið er að bæta fjölbreytileika á efninu sem Rúv hefur að bjóða upp á með því að bæta við safni af mismunandi kvikmyndum og þáttum sem er ekki endilega sýnt í beinni útsendingu til að gefa notendum meira val og sveigjanleika. Þetta leyfir Rúv að halda í við nútíma streymisveitendur þar sem mikið af fólki kýs frekar að horfa á efni þegar þeim hentar heldur en að horfa á beinar útsendingar. 
+
+Auklega er annað markmið á hugbúnaðinum að gera góða notendaupplifun fyrir fólk á öllum aldri og með mismunandi tækni þekkingu kleift að finna, nálgast og njóta efnis auðveldlega.
+
+Loka markmiðið er að bæta framtíðar sjálfbærni Rúv með því að hjálpa því að keppast við nútíma streymis veitendur, með því að bjóða upp á hágæða og notendavænan hugbúnað. Rúv getur því haldið í gamla notendur sem eru vanir að horfa á beinar útsendingar og einnig stækkað áhorfendahóp sinn á sama tíma með því að bjóða upp á fjölbreytt efni til að streyma.
+
 
 ### 1.4 Árangurs mælikvarðar
 
