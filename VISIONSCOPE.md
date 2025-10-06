@@ -67,9 +67,6 @@ Að lokum er framtíðarsýnin að kerfið styðji við að Rúv verði bæði l
 ## 2. Umfang  og takmarkanir 
 ### 2.1 Helstu fídusar
 
-
-### 2.2 Umfang fyrstu útgáfu
-
 - FE-1: Streymi af beinni sjónvarpsútsendingu, og gömlum útsendingum er hægt að nálgast á auðveldann og skýran hátt.
 - FE-2: Hægt er að nálgast dagskrá fyrir núverandi dag, liðna daga og komandi daga.
 - FE-3: Sreymi fyrir efni sem sýnt hefur verið í beinni og annað myndefni er aðgengilegt í gegnum skýrt yfirlit.
@@ -77,7 +74,7 @@ Að lokum er framtíðarsýnin að kerfið styðji við að Rúv verði bæði l
 - FE-5: Texti á mörgum tungumálum fyrir myndefni.
 - FE-6: Viðmót fyrir fyrirtæki þar sem hægt er að bæta við, breyta og eyða myndefni, dagskrám og textum.
 
-### 2.3 Takmarkanir og útilokanir
+### 2.2 Umfang fyrstu útgáfu
 
 | Fídus | 1. útgáfa | 2. útgáfa | 3. útgáfa |
 | ----- | --------- | --------- | --------- |
@@ -87,6 +84,9 @@ Að lokum er framtíðarsýnin að kerfið styðji við að Rúv verði bæði l
 | FE-4  | Snjallsíma og vafraútgáfa útfærð - aðgengilegt öllum | Sér forrit fyrir sjónvörp útfært, útfært að fullu | Útfært að fullu |
 | FE-5  | Ekki útfært | Útfært ef tími gefst | Útfært að fullu |
 | FE-6  | Útfært fyrir myndefni | Útfært frekar ef tími gefst | Útfært að fullu |
+
+
+### 2.3 Takmarkanir og útilokanir
 
 ---
 
@@ -107,28 +107,18 @@ Að lokum er framtíðarsýnin að kerfið styðji við að Rúv verði bæði l
 
 
 ## Breytingasaga
-<!--
-Í stað þess að halda utan um alla commit-sögu er aðeins skráð formleg útgáfa (milestones) með Git tags (merkjum).  
-Hver lína í töflunni samsvarar tag (merki) sem hefur verið sett í Git repositoryið.
-> 🔖 Revision History er viðhaldið með **Git tags**.  
-> Þegar ný útgáfa (t.d. drög eða baseline) er tilbúin, búið til tag í Git (`git tag -a vX.Y -m "message" && git push origin vX.Y`)  
-> sem bætir einni línu við í töfluna hér að neðan.
--->
-> 🔖 Taflan hér á eftir er búin til með því að keyra shell skrána `updatevisionhistory.sh` í bash terminal
-> 
->  `chmod +x updatevisionhistory.sh`
-> 
->  `./updatevisionhistory.sh`
-> 
->  Ef þú vilt skoða töfluna fyrst til að sjá hvernig hún kemur út geturðu gert eftirfarandi beint úr skelinni 
-> `git log -n 5 --pretty=format:"| %an | %ad | %s | %h |" --date=short -n 10 -- VISIONSCOPE.md`
-
 
 <!-- GIT_HISTORY_START -->
 | Author | Date       | Message | Commit |
 |--------|------------|---------|--------|
 | Ebba Þóra Hvannberg | 2025-09-08 | fyrsta útgáfa og Revision history gert sjálfvirkt | 5b39409 |
+| gillzinn | 2025-10-06 | Merge pull request #7 from Valurks/4-forgangs-hagsmunaaðilar-favored-stakeholder-31 | 42a819a |
+| gillzinn | 2025-10-06 | Merge pull request #8 from Valurks/3-umfang-scope-22 | 97647d2 |
+| Valurkristinn | 2025-10-06 | bætt við umfangi og viðeigandi töflu | 3c2a43e |
+| Valurkristinn | 2025-10-06 | bætt við prófílum forgangs hagsmunaaðila | 94ef408 |
+| valurkristinn | 2025-10-06 | Merge pull request #5 from Valurks/1-viðskiptamarkmið-13 | 7833078 |
+| gillzinn | 2025-10-06 | skrifaði framtíðarsýn | d0ad677 |
+| gillzinn | 2025-10-06 | skrifaði viðskiptamarkmið | 6cfd8df |
+| valurkristinn | 2025-09-25 | Initial commit | cf9e76a
 
 <!-- GIT_HISTORY_END -->
-
-> Skoða allt: `git log -- "VISIONSCOPE.md" `
