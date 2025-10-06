@@ -37,18 +37,25 @@
 
 
 ### 1.3 Viðskiptamarkmið
-*(Skrifaðu þennan kafla)*
+Aðal viðskipta markmiðið með þessum hugbúnaði er að hjálpa Rúv að stækka hlutverk sitt sem Ríkissjónvarp Íslands, með því að auka aðgengi fyrir landsmenn og bjóða upp á fjölbreytt og viðeigandi efni. Hugbúnaðurinn miðar að auka þáttöku notanda og áhorfs tíma með því að gera notendum kleift að neyta efni í beinni útsendingu og mismunandi efni eftir því sem þeim hentar, hvenær sem er og hvar sem er á vef og snjalltækjum.
+
+Annað mikilvægt markmið er að bæta fjölbreytileika á efninu sem Rúv hefur að bjóða upp á með því að bæta við safni af mismunandi kvikmyndum og þáttum sem er ekki endilega sýnt í beinni útsendingu til að gefa notendum meira val og sveigjanleika. Þetta leyfir Rúv að halda í við nútíma streymisveitendur þar sem mikið af fólki kýs frekar að horfa á efni þegar þeim hentar heldur en að horfa á beinar útsendingar. 
+
+Auklega er annað markmið á hugbúnaðinum að gera góða notendaupplifun fyrir fólk á öllum aldri og með mismunandi tækni þekkingu kleift að finna, nálgast og njóta efnis auðveldlega.
+
+Loka markmiðið er að bæta framtíðar sjálfbærni Rúv með því að hjálpa því að keppast við nútíma streymis veitendur, með því að bjóða upp á hágæða og notendavænan hugbúnað. Rúv getur því haldið í gamla notendur sem eru vanir að horfa á beinar útsendingar og einnig stækkað áhorfendahóp sinn á sama tíma með því að bjóða upp á fjölbreytt efni til að streyma.
+
 
 ### 1.4 Árangurs mælikvarðar
 
 
 ### 1.5 Framtíðarsýn
-*(Skrifaðu þennan kafla)*
+Framtíðarsýnin fyrir hugbúnaðinn er að búa til nútímalega og áreiðanlega streymisþjónustu með góðu aðgengi fyrir alla landsmenn sem gerir þeim kleift að nálgast allt efni sem Rúv hefur uppá að bjóða, hvenær sem er og hvar sem er.
 
-[Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it 
-includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse customers as well as those of 
-the developing organization. It may be somewhat idealistic, but it should be grounded in the realities of existing or anticipated customer markets, 
-enterprise architectures, organizational strategic directions, and cost and resource limitations ]
+Hugbúnaðurinn mun sameina beinar útsendingar, valið efni sem sýnt var í beinni útsendingu og safn af fjölbreyttu efni sem ekki er sýnt í beinni útsendingu. Kerfið mun virka á vef, snjalltækjum og sjónvörpum og gefur því sveigjanleika fyrir bæði yngri kynslóðir með góða tækniþekkingu og eldri kynslóðir sem eru vanir hefðbundu sjónvarpsáhorfi. Hugbúnaðurinn mun bjóða uppá einfalda notendaupplifun sem leggur áherslu á aðgengi og sveigjanleika sem tryggir að kerfið er nothæft fyrir sem stærsta hóp af fólki.
+
+Að lokum er framtíðarsýnin að kerfið styðji við að Rúv verði bæði leiðandi á fjölmiðlamarkaði á Íslandi og traustur stafrænn miðill. Auk þess er markmið Rúv  að varðveita bæði menningu og þjóðarvitund samhliða stafrænni þróun fjölmiðla. Með því að ná þessari framtíðarsýn mun félagið ná að festa sig í sessi sem mikilvægur fjölmiðill til framtíðar og halda áfram að veita gæða þjónustu til næstu kynslóða.
+
 ### 1.6 Viðskiptaáhætta
 
 
@@ -77,21 +84,13 @@ Focus on those features and product characteristics  that will provide the most 
 
 ## 3. Samhengi viðskipta
 ### 3.1 Prófílar forgangs hagsmunaaðila 
-*(Skrifaðu þennan kafla )*
 
-[ Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later that cannot be accommodated because of schedule or scope constraints. For each stakeholder category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:
-
-- improved productivity
-- reduced rework 
-- cost savings	
-- streamlined business processes	
-- automation of previously manual tasks	
-- ability to perform entirely new tasks or functions	
-- conformance to current standards or regulations	
-- improved usability or reduced frustration level compared to current applications
-]
-Setjið gjarnan upp í töflu sbr námsefnið 
-
+| Hagsmunaraðili | Aðal gildi | Afstaða | Aðal áhugasvið | Takmarkanir |
+| -------------- | ---------- | ------- | -------------- | ----------- |
+| Stjórnendur fyrirtækis | Betri gæði þjónustu og notendaupplifun | Jákvæðar viðtökur og ákefð til að koma kerfinu í gang sem fyrst | Hækka fjölda notenda og þar með tekjur | Örugg og snögg þróun hugbúnaðar |
+| Notendur | Betri notendaupplifun, úrval af myndefni og þægindi | Jákvæðar viðtökur | Þægilegt og áreiðanlegt kerfi | Sumir notendur kunna illa við breytingar |
+| Utanaðkomandi myndefnisframleiðendur | Auðveld og afburðarík myndefnisdreifing | Mikill áhugi en óviss hvort niðurstöður verða í réttu hlutfalli við aukinn kostnað af þeirra hálfu | Aukið áhorf og auðveldun þess að koma efninu á framfæri | Kostnaður við að koma efninu á betri vettvang |
+| Auglýsingastofur | Aukin áhrif aulýsinga | Mjög ánægð og trúa því að þetta muni auka tekjur | Auka fjölda þeirra sem sjá auglýsingar og þar með auka tekjur | Viðskiptavinir gætu orðið ósáttir við hærra verð á auglýsingum |
 
 ### 3.2 Forgangsröðun verkefnis 
 
