@@ -62,16 +62,24 @@ enterprise architectures, organizational strategic directions, and cost and reso
 
 
 ### 2.2 Umfang fyrstu útgáfu
-*(Skrifaðu þennan kafla )*
 
-[Describe the intended major features that will be included in the initial release of the product. 
-Consider the benefits the product is intended to bring to the various customer communities, and generally describe the 
-product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to 
-include every possible feature that any potential customer category might conceivably want some day.
-Focus on those features and product characteristics  that will provide the most value, at the most acceptable development cost, to the broadest community]
+- FE-1: Streymi af beinni sjónvarpsútsendingu, og gömlum útsendingum er hægt að nálgast á auðveldann og skýran hátt.
+- FE-2: Hægt er að nálgast dagskrá fyrir núverandi dag, liðna daga og komandi daga.
+- FE-3: Sreymi fyrir efni sem sýnt hefur verið í beinni og annað myndefni er aðgengilegt í gegnum skýrt yfirlit.
+- FE-4: Þjónusta aðgengileg á snjallsímum/spjaldtölvum, tölvum og sjónvörpum.
+- FE-5: Texti á mörgum tungumálum fyrir myndefni.
+- FE-6: Viðmót fyrir fyrirtæki þar sem hægt er að bæta við, breyta og eyða myndefni, dagskrám og textum.
 
 ### 2.3 Takmarkanir og útilokanir
 
+| Fídus | 1. útgáfa | 2. útgáfa | 3. útgáfa |
+| ----- | --------- | --------- | --------- |
+| FE-1  | Streymi af beinni útsendingu útfært | Útfært frekar ef tími gefst | Útfært að fullu |
+| FE-2  | Ekki útfært | Dagskrá fyrir daginn í dag útfærð| Útfært að fullu |
+| FE-3  | Útfært fyrir annað efni | Útfært að fullu | Útfært að fullu | 
+| FE-4  | Snjallsíma og vafraútgáfa útfærð - aðgengilegt öllum | Sér forrit fyrir sjónvörp útfært, útfært að fullu | Útfært að fullu |
+| FE-5  | Ekki útfært | Útfært ef tími gefst | Útfært að fullu |
+| FE-6  | Útfært fyrir myndefni | Útfært frekar ef tími gefst | Útfært að fullu |
 
 ---
 
