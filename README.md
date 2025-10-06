@@ -8,7 +8,7 @@
 
 -- [**VISIONSCOPE.md**](VISIONSCOPE.md)
 
--- [**VERKASKIPTING-IGRUNDUN.md**](VERKASKIPTING-IGRUNDUN.md) Í lokin lýsa nemendur verkaskiptingu og ígrunda verkefnið
+-- [**VERKASKIPTING-IGRUNDUN.md**](VERKASKIPTING-IGRUNDUN.md) ígrundun verkefnis
 
 -- [**updatevisionhistory.sh**](updatevisionhistory.sh) - shell skripta til að búa til breytingasögu í VISIONSCOPE.md
 
