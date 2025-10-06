@@ -92,21 +92,13 @@ Að lokum er framtíðarsýnin að kerfið styðji við að Rúv verði bæði l
 
 ## 3. Samhengi viðskipta
 ### 3.1 Prófílar forgangs hagsmunaaðila 
-*(Skrifaðu þennan kafla )*
 
-[ Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later that cannot be accommodated because of schedule or scope constraints. For each stakeholder category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:
-
-- improved productivity
-- reduced rework 
-- cost savings	
-- streamlined business processes	
-- automation of previously manual tasks	
-- ability to perform entirely new tasks or functions	
-- conformance to current standards or regulations	
-- improved usability or reduced frustration level compared to current applications
-]
-Setjið gjarnan upp í töflu sbr námsefnið 
-
+| Hagsmunaraðili | Aðal gildi | Afstaða | Aðal áhugasvið | Takmarkanir |
+| -------------- | ---------- | ------- | -------------- | ----------- |
+| Stjórnendur fyrirtækis | Betri gæði þjónustu og notendaupplifun | Jákvæðar viðtökur og ákefð til að koma kerfinu í gang sem fyrst | Hækka fjölda notenda og þar með tekjur | Örugg og snögg þróun hugbúnaðar |
+| Notendur | Betri notendaupplifun, úrval af myndefni og þægindi | Jákvæðar viðtökur | Þægilegt og áreiðanlegt kerfi | Sumir notendur kunna illa við breytingar |
+| Utanaðkomandi myndefnisframleiðendur | Auðveld og afburðarík myndefnisdreifing | Mikill áhugi en óviss hvort niðurstöður verða í réttu hlutfalli við aukinn kostnað af þeirra hálfu | Aukið áhorf og auðveldun þess að koma efninu á framfæri | Kostnaður við að koma efninu á betri vettvang |
+| Auglýsingastofur | Aukin áhrif aulýsinga | Mjög ánægð og trúa því að þetta muni auka tekjur | Auka fjölda þeirra sem sjá auglýsingar og þar með auka tekjur | Viðskiptavinir gætu orðið ósáttir við hærra verð á auglýsingum |
 
 ### 3.2 Forgangsröðun verkefnis 
 
